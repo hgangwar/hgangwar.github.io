@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "642327edd949c4e36bff913ce3bc2bc9",
+    "revision": "c53247929d07b1544e437cfba860c185",
     "url": "/index.html"
   },
   {
-    "revision": "b082f1e362b0a7d34ae0",
+    "revision": "dd92c561d7d6e3895a36",
     "url": "/static/css/main.b8fd5827.chunk.css"
   },
   {
-    "revision": "8190c6628d88ba6508e5",
-    "url": "/static/js/2.f7489bfa.chunk.js"
+    "revision": "e173442dd557e5ef40f7",
+    "url": "/static/js/2.b860bcce.chunk.js"
   },
   {
-    "revision": "b082f1e362b0a7d34ae0",
-    "url": "/static/js/main.c2ce59f6.chunk.js"
+    "revision": "dd92c561d7d6e3895a36",
+    "url": "/static/js/main.dd8dda76.chunk.js"
   },
   {
     "revision": "ac65250faffad0985be2",
@@ -72,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/HackerRank.decbe0d9.png"
   },
   {
+    "revision": "d0949c07b1a5c5e2ce823d845908bbbb",
+    "url": "/static/media/Harsh.d0949c07.png"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
@@ -98,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee92c18b1cfbd1faa704c51047f113d",
     "url": "/static/media/codeInLogo.fee92c18.png"
+  },
+  {
+    "revision": "95a608cd163603e8e99c1036aceda349",
+    "url": "/static/media/colab.95a608cd.png"
   },
   {
     "revision": "5f915405511f649dad433a6db9adbff4",
