@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.b8fd5827.chunk.css",
-    "main.js": "/static/js/main.dd8dda76.chunk.js",
-    "main.js.map": "/static/js/main.dd8dda76.chunk.js.map",
+    "main.js": "/static/js/main.b2319e7a.chunk.js",
+    "main.js.map": "/static/js/main.b2319e7a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e39bb7d4.js",
     "runtime-main.js.map": "/static/js/runtime-main.e39bb7d4.js.map",
     "static/js/2.b860bcce.chunk.js": "/static/js/2.b860bcce.chunk.js",
     "static/js/2.b860bcce.chunk.js.map": "/static/js/2.b860bcce.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fe8ef7863d70ea835734a41c8243f0a2.js": "/precache-manifest.fe8ef7863d70ea835734a41c8243f0a2.js",
+    "precache-manifest.068a9bc9e0a23c7ebcb8198050bd14df.js": "/precache-manifest.068a9bc9e0a23c7ebcb8198050bd14df.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b8fd5827.chunk.css.map": "/static/css/main.b8fd5827.chunk.css.map",
     "static/media/ABG.svg": "/static/media/ABG.6f69cd9d.svg",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.e39bb7d4.js",
     "static/js/2.b860bcce.chunk.js",
     "static/css/main.b8fd5827.chunk.css",
-    "static/js/main.dd8dda76.chunk.js"
+    "static/js/main.b2319e7a.chunk.js"
   ]
 }
